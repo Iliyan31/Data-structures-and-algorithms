@@ -1,5 +1,5 @@
 # List of all homeworks
-In this directory you will find all homeworks corresponding to a specific data structure.
+### In this directory you will find all homeworks corresponding to a specific data structure or algorithms.
 - Homework 1 - Previous university knowledge
 - Homework 2 - Sorting algorithms
 - Homework 3 -
