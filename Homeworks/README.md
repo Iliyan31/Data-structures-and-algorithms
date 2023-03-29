@@ -2,7 +2,7 @@
 ### Description
 **In this directory you will find all homeworks corresponding to a specific data structure or algorithms 
 studied during the week.**\
-In each homework for the ease of the user, there is pdf version of the task problem included and in each homework there is link to the original task. 
+In each homework, for the ease of the user, there is pdf version of the task problem included and in each homework there is link to the original task. 
 
 ### List of all homeworks:
 - [Homework 1](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%201) - Previous university knowledge
