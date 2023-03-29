@@ -13,7 +13,7 @@ In each homework for the ease of the user, there is pdf version of the task prob
 - [Homework 7](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%207) - Self-balancing binary search trees
 - [Homework 8](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%208) - Heap
 - [Homework 9](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%209) - Hashtable and hashing algorithms
-- [Homework 10]() - Graphs - BFS and DFS
-- [Homework 11]() - Shortest path algorithms - Dijkstra's algorithm
-- [Homework 12]() - Minimum spanning tree
-- [Homework 13]() - Euler and Hamiltonian path and circuit
+- [Homework 10](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%2010) - Graphs - BFS and DFS
+- [Homework 11](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%2011) - Shortest path algorithms - Dijkstra's algorithm
+- [Homework 12](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%2012) - Minimum spanning tree
+- [Homework 13](https://github.com/Iliyan31/Data-structures-and-algorithms/tree/main/Homeworks/Homework%2013) - Euler and Hamiltonian path and circuit
